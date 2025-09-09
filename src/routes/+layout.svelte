@@ -10,4 +10,6 @@
 
 {@render children?.()}
 
+<hr />
+<h3>Layout data</h3>
 <pre>{JSON.stringify(data, null, 2)}</pre>
